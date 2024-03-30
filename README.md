@@ -52,7 +52,7 @@ $ yarn dev # Chrome
 $ yarn dev:ff # Firebox
 ```
 
-### Test
+### 测试
 
 ```bash
 $ yarn test
