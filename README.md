@@ -1,15 +1,4 @@
 <h1 align="center">Web Clipper</h1>
-<p align="center">
-    <a href="https://github.com/webclipper/web-clipper/actions">
-      <img src="https://github.com/webclipper/web-clipper/workflows/CI%20Test/badge.svg" alt="CI Test Status">
-    </a>
-     <a href="https://github.com/webclipper/web-clipper/actions">
-      <img src="https://github.com/webclipper/web-clipper/workflows/Release resource/badge.svg" alt="Release resource status">
-    </a>
-    <a href="https://codecov.io/gh/webclipper/web-clipper">
-      <img src="https://img.shields.io/codecov/c/github/webclipper/web-clipper/master.svg?style=flat-square" alt="Codecov">
-    </a>
-</p>
 
 您可以使用Web Clipper将网页上的任何内容保存到任何地方。
 
