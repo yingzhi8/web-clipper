@@ -11,16 +11,13 @@
     </a>
 </p>
 
-You can use Web Clipper to save anything on the web to anywhere.
+您可以使用Web Clipper将网页上的任何内容保存到任何地方。
 
 <img src="https://clipper.website/static/image/screenshot.png">
 
-### Support Site
+### 支持站点
 
-- [FlowUs](https://flowus.cn/)
-
-  <img style="width:100px" src="https://github.com/webclipper/web-clipper/blob/master/flowus-logo.jpg?raw=true">
-
+* [FlowUs](https://flowus.cn/)
 * [Github](https://github.com)
 * [Yuque](https://www.yuque.com)
 * [Notion](https://www.notion.so/)
@@ -35,7 +32,7 @@ You can use Web Clipper to save anything on the web to anywhere.
 * [Leanote](https://github.com/leanote/leanote)
 * [Flomo](https://flomoapp.com/)
 
-### Install
+### 在线安装
 
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-web-clipper/) 1.30.0
 
@@ -45,18 +42,18 @@ You can use Web Clipper to save anything on the web to anywhere.
 
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/opejamnnohhbjflpbhnmdlknhjkfhfdp) 1.31.0
 
-ps: Because the review takes a week, the version will fall behind.
+ps: 由于审查需要一周时间，版本将会落后。
 
-#### From Github
+#### 从Github安装
 
-1. Download the webclipper.zip from [release page](https://github.com/webclipper/web-clipper/releases)
-2. Go to **chrome://extensions/** and check the box for **Developer mode** in the top right.
-3. Locate the ZIP file on your computer and unzip it.
-4. Go back to the chrome://extensions/ page and click the **Load unpacked extension** button and select the unzipped folder for your extension to install it.
+1. 从[发布页面](https://github.com/webclipper/web-clipper/releases)下载webclipper.zip。
+2. 转到**chrome://extensions/**，并在右上角勾选**开发者模式**复选框。
+3. 在计算机上找到ZIP文件并解压缩它。
+4. 返回到chrome://extensions/页面，点击**加载已解压的扩展程序**按钮，并选择已解压缩的文件夹以安装您的扩展程序。
 
 [Canary](https://github.com/webclipper/web-clipper/releases/tag/canary)
 
-### Develop
+### 开发
 
 ```bash
 $ git clone https://github.com/webclipper/web-clipper.git
@@ -71,21 +68,3 @@ $ yarn dev:ff # Firebox
 ```bash
 $ yarn test
 ```
-
-### Feedback
-
-| Type     | Link                                                 |
-| -------- | ---------------------------------------------------- |
-| Telegram | [Link](https://t.me/joinchat/HoVttRRUIA6aXASixzoqAw) |
-
-### Sponsors
-
-#### 感谢 [FlowUs 息流](https://flowus.cn/product) 赞助本项目
-
-FlowUs 息流是一款为个人和团队打造的新一代知识管理与协作平台，以云端空间承载，配合灵活的信息搭建能力，为用户在工作、生活、学习中提供更多效率与专注。
-
-产品覆盖移动及 PC 端全生态链条，依托 FlowUs 息流，团队和个人用户能够实现项目管理、知识库、企业网盘、内部工作流等一站式解决方案。
-
-**官网**: [https://flowus.cn/product](https://flowus.cn/product)
-
-![FlowUs](https://github.com/webclipper/web-clipper/blob/master/flowus.png?raw=true)
