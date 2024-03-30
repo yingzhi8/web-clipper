@@ -5,9 +5,9 @@ const getBasicManifest = () => {
   const packageVersion = getPackageJsonVersion();
   const commitsCount = getCommitsCount();
   const version = generateVersion({ version: packageVersion, commitsCount });
-  let name = 'Web Clipper';
+  let name = '英智剪藏';
   if (version !== packageVersion) {
-    name = 'Web Clipper Beta';
+    name = '英智剪藏 Beta';
   }
   return { version, name };
 };
